@@ -7,3 +7,10 @@ Este perfil é a conta acadêmica de <a href="https://github.com/PkLavc" style="
 </p>
 
 <br clear="right">
+<!-- ************************************************** Bar ***************************************************** -->
+
+<img src="https://github.com/PkLavc/PkLavc/blob/94f67aca0f96f0e9cef748c2c27877c02586f77d/resources/Rainbow.gif" width="100%">
+
+<!-- ************************************************ End Bar *************************************************** -->
+
+<img src="https://komarev.com/ghpvc/?username=BabaYaga-RU&color=00d1ff&style=for-the-badge">
