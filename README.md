@@ -12,6 +12,15 @@ Este perfil é a conta acadêmica de <a href="https://github.com/PkLavc"><img sr
 
 <img src="https://github.com/PkLavc/PkLavc/blob/94f67aca0f96f0e9cef748c2c27877c02586f77d/resources/Rainbow.gif" width="100%">
 
-<!-- ************************************************ End Bar *************************************************** -->
+<!-- ************************************************ Status *************************************************** -->
+
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=PkLavc&layout=compact&theme=tokyonight&title_color=00d1ff&hide_border=true" />
+
+<!-- ************************************************** Bar ***************************************************** -->
+
+<img src="https://github.com/PkLavc/PkLavc/blob/94f67aca0f96f0e9cef748c2c27877c02586f77d/resources/Rainbow.gif" width="100%">
+
+<!-- ************************************************ Counter *************************************************** -->
+
 
 <img src="https://komarev.com/ghpvc/?username=BabaYaga-RU&color=00d1ff&style=for-the-badge">
