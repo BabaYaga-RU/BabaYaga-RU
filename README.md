@@ -3,7 +3,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00D1FF&center=false&vCenter=false&width=600&lines=%F0%9F%8E%93+Perfil+Acad%C3%AAmico+%7C+Newton+Paiva;%E2%9A%99%EF%B8%8F+Engenharia+da+Computa%C3%A7%C3%A3o)](https://git.io/typing-svg)
 
 <p style="color: #00d1ff; text-shadow: 0 0 10px #00d1ff; font-weight: bold;">
-Este perfil é a conta acadêmica de <a href="https://github.com/PkLavc" style="color: #00d1ff; text-decoration: underline;">PkLavc</a>, dedicada exclusivamente para testes de grupo, projetos de faculdade e laboratórios. Não possui finalidade de portfólio profissional, sendo utilizado apenas para o versionamento de atividades e trabalhos em equipe.
+Este perfil é a conta acadêmica de <a href="https://github.com/PkLavc"><img src="https://raw.githubusercontent.com/BabaYaga-RU/BabaYaga-RU/313553b09c96de0596e75f78a4dc73b1782f6051/assets/img/wired-outline-69-eye-hover-blink.gif" width="35" align="center"></a>, dedicada exclusivamente para testes de grupo, projetos de faculdade e laboratórios. Não possui finalidade de portfólio profissional, sendo utilizado apenas para o versionamento de atividades e trabalhos em equipe.
 </p>
 
 <br clear="right">
