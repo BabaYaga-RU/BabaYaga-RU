@@ -8,17 +8,11 @@ Conta acadêmica dedicada exclusivamente para testes de grupo, projetos de facul
 
 <br clear="right">
 
-<!-- ************************************************** Bar ***************************************************** -->
-
-<img src="https://github.com/PkLavc/PkLavc/blob/94f67aca0f96f0e9cef748c2c27877c02586f77d/resources/Rainbow.gif" width="100%">
 
 <!-- ************************************************ Status *************************************************** -->
 
 <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=BabaYaga-RU&layout=compact&theme=tokyonight&title_color=00d1ff&hide_border=true" />
 
-<!-- ************************************************** Bar ***************************************************** -->
-
-<img src="https://github.com/PkLavc/PkLavc/blob/94f67aca0f96f0e9cef748c2c27877c02586f77d/resources/Rainbow.gif" width="100%">
 
 <!-- ************************************************ Counter *************************************************** -->
 
