@@ -22,7 +22,7 @@
 
 <!-- **************************************** Support / Counter **************************************** -->
 
-<img src="https://komarev.com/ghpvc/?username=BabaYaga-RU&color=00d1ff&style=for-the-badge">
+<img src="https://komarev.com/ghpvc/?username=BabaYaga-RU&color=00FF41&style=for-the-badge">
 
 <!-- ********************************************* loading ********************************************* -->
 
