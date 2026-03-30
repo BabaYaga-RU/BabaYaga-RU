@@ -4,4 +4,28 @@
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=BabaYaga-RU&layout=compact&theme=tokyonight&title_color=00FF41&hide_border=true" style="display: inline-block; vertical-align: top;" />
 </p>
 
+<!-- **************************************** GitHub Stats **************************************** -->
+
+<div align="left">
+
+  <img src="https://github-readme-stats.vercel.app/api?username=BabaYaga-RU&show_icons=true&theme=tokyonight&title_color=00FF41&icon_color=00FF41&text_color=ffffff&hide_border=true&bg_color=00000000&hide=issues,contribs,discussions_started,discussions_answered" />
+
+  <br><br>
+
+  <img width="450px" src="https://github-readme-streak-stats-fawn-three.vercel.app?user=BabaYaga-RU&theme=tokyonight&fire=00FF41&ring=00FF41&currStreakLabel=00FF41&background=00000000&hide_border=true&stroke=00FF41" alt="BabaYaga-RU Streak" />
+
+  <br><br>
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BabaYaga-RU&layout=compact&theme=tokyonight&title_color=00FF41&icon_color=00FF41&hide_border=true&bg_color=00000000" />
+
+</div>
+
+<!-- **************************************** Support / Counter **************************************** -->
+
+<img src="https://komarev.com/ghpvc/?username=BabaYaga-RU&color=00d1ff&style=for-the-badge">
+
+[![GitHub Sponsors](https://img.shields.io/badge/Sponsor%20me-%23ea4aaa?style=for-the-badge&logo=github-sponsors&logoColor=white)](https://github.com/sponsors/BabaYaga-RU)
+
+<!-- ********************************************* loading ********************************************* -->
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00FF41&center=false&vCenter=false&width=435&lines=loading+...)](https://git.io/typing-svg)
