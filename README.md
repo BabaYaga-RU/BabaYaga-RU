@@ -8,22 +8,21 @@
 
 <div align="left">
 
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=BabaYaga-RU&show_icons=true&theme=tokyonight&title_color=00FF41&icon_color=00FF41&text_color=ffffff&hide_border=true&bg_color=00000000&hide=issues,contribs,discussions_started,discussions_answered&cache_seconds=1800" />
+  <img width="450px" src="https://github-readme-streak-stats-fawn-three.vercel.app?user=BabaYaga-RU&theme=tokyonight&fire=00FF41&ring=00FF41&currStreakLabel=00FF41&background=00000000&hide_border=true&stroke=00FF41" alt="BabaYaga-RU Streak" />
 
  <br>
  
-  <img width="450px" src="https://github-readme-streak-stats-fawn-three.vercel.app?user=BabaYaga-RU&theme=tokyonight&fire=00FF41&ring=00FF41&currStreakLabel=00FF41&background=00000000&hide_border=true&stroke=00FF41" alt="BabaYaga-RU Streak" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=BabaYaga-RU&show_icons=true&theme=tokyonight&title_color=00FF41&icon_color=00FF41&text_color=ffffff&hide_border=true&bg_color=00000000&hide=issues,contribs,discussions_started,discussions_answered&cache_seconds=1800" />
 
-  <br>
-
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=BabaYaga-RU&layout=compact&theme=tokyonight&title_color=00FF41&icon_color=00FF41&hide_border=true&bg_color=00000000&cache_seconds=1800" />
 
 </div>
+
+<!-- ********************************************* loading ********************************************* -->
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00FF41&center=false&vCenter=false&width=435&lines=loading+...)](https://git.io/typing-svg)
 
 <!-- **************************************** Support / Counter **************************************** -->
 
 <img src="https://komarev.com/ghpvc/?username=BabaYaga-RU&color=00FF41&style=for-the-badge">
 
-<!-- ********************************************* loading ********************************************* -->
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00FF41&center=false&vCenter=false&width=435&lines=loading+...)](https://git.io/typing-svg)
