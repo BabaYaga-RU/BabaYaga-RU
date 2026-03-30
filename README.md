@@ -24,8 +24,6 @@
 
 <img src="https://komarev.com/ghpvc/?username=BabaYaga-RU&color=00d1ff&style=for-the-badge">
 
-[![GitHub Sponsors](https://img.shields.io/badge/Sponsor%20me-%23ea4aaa?style=for-the-badge&logo=github-sponsors&logoColor=white)](https://github.com/sponsors/BabaYaga-RU)
-
 <!-- ********************************************* loading ********************************************* -->
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00FF41&center=false&vCenter=false&width=435&lines=loading+...)](https://git.io/typing-svg)
